@@ -1,4 +1,4 @@
-<p>Hi, I'm Nathacode19 I am interested in crafting a responsive looking websites.</p>
+<p>Hi, I'm Ohiomata BN I am interested in crafting a responsive looking websites.</p>
 <p>I have passion for building modern websites.</p>
 <a>You can reach me on facebook@<br> <a href="https://web.facebook.com/profile.php?id=100081803945188">Ohiomata BN</a></p>
 
